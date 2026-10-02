@@ -152,7 +152,7 @@ public class Main {
         tournoi.inscrire(new Voleur("Messi", 110, 20, 8, 30));
         tournoi.inscrire(new Voleur("Ronaldo", 105, 24, 6, 25));
         tournoi.inscrire(new Paladin("Mbappe", 140, 20, 15));
-        tournoi.inscrire(new Paladin("Manstantuono", 145, 18, 18));
+        tournoi.inscrire(new Paladin("Doue", 145, 18, 18));
 
         tournoi.lancer();
 
